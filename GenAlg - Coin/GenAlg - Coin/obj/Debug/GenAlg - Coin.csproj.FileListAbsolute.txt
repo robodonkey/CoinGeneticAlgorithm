@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ryan\Desktop\GenAlg - Coin\GenAlg - Coin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ryan\Desktop\GenAlg - Coin\GenAlg - Coin\bin\Debug\GenAlg - Coin.exe
+C:\Documents and Settings\Ryan\Desktop\GenAlg - Coin\GenAlg - Coin\bin\Debug\GenAlg - Coin.pdb
+C:\Documents and Settings\Ryan\Desktop\GenAlg - Coin\GenAlg - Coin\obj\Debug\GenAlg - Coin.exe
+C:\Documents and Settings\Ryan\Desktop\GenAlg - Coin\GenAlg - Coin\obj\Debug\GenAlg - Coin.pdb
+C:\Users\Donkey\Desktop\Classes\CSC360 - A. Life Programming\GenAlg - Coin\GenAlg - Coin\obj\Debug\GenAlg - Coin.exe
+C:\Users\Donkey\Desktop\Classes\CSC360 - A. Life Programming\GenAlg - Coin\GenAlg - Coin\obj\Debug\GenAlg - Coin.pdb
+C:\Users\Donkey\Desktop\Classes\CSC360 - A. Life Programming\GenAlg - Coin\GenAlg - Coin\bin\Debug\GenAlg - Coin.exe
+C:\Users\Donkey\Desktop\Classes\CSC360 - A. Life Programming\GenAlg - Coin\GenAlg - Coin\bin\Debug\GenAlg - Coin.pdb
+C:\Users\Donkey\Desktop\Classes\CSC360 - A. Life Programming\GenAlg - Coin\GenAlg - Coin\obj\Debug\ResolveAssemblyReference.cache
